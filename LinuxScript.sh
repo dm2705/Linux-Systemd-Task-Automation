@@ -1,6 +1,6 @@
 #!/bin/bash
 HOMEPATH="path/to"
-PM2_Home="path/to/your/"
+PM2_Home="path/to/folder/"
 
 #Get pid of task
 VAR=$(pm2 pid folder_of_file)
